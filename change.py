@@ -1,6 +1,4 @@
 import re
-
-
 with open('characters base.md', encoding='utf-8', mode='r+') as base:
     doc = base.read()
     doc1 = re.sub(r'[*][*]([^*]+)[*][*]',
