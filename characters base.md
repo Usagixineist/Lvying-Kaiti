@@ -2,31 +2,31 @@
 
 ## CJK 统一表意符号 (CJK Unified Ideographs/ CJK UI) {U+4E00 - U+9FFF}
 
-<span style="color:green">一丁</span><span style="color:red">丂</span><span style="color:green">七丄丅</span><span style="color:red">丆</span><span style="color:green">万</span>  <span style="color:green">丈三上下</span><span style="color:red">丌</span><span style="color:green">不与</span><span style="color:red">丏</span>  <span style="color:green">丐丑</span><span style="color:red">丒专</span><span style="color:green">且丕世丗  丘丙</span><span style="color:red">业丛东丝</span><span style="color:green">丞丟</span>  
+**一丁**~~丂~~**七丄丅**~~丆~~**万**  **丈三上下**~~丌~~**不与**~~丏~~  **丐丑**~~丒专~~**且丕世丗  丘丙**~~业丛东丝~~**丞丟**  
 
-<span style="color:red">丠</span><span style="color:green">両</span><span style="color:red">丢丣两严</span><span style="color:green">並</span><span style="color:red">丧</span>  <span style="color:green">丨</span><span style="color:red">丩</span><span style="color:green">个丫丬中</span><span style="color:red">丮</span><span style="color:green">丯  丰丱串</span><span style="color:red">丳临丵</span><span style="color:green">丶丷  丸丹</span><span style="color:red">为</span><span style="color:green">主丼</span><span style="color:red">丽举</span><span style="color:green">丿</span>
+~~丠~~**両**~~丢丣两严~~**並**~~丧~~  **丨**~~丩~~**个丫丬中**~~丮~~**丯  丰丱串**~~丳临丵~~**丶丷  丸丹**~~为~~**主丼**~~丽举~~**丿**
 
-<span style="color:green">乀乁乂乃乄久</span><span style="color:red">乆乇</span>  <span style="color:green">么</span><span style="color:red">义乊</span><span style="color:green">之</span><span style="color:red">乌</span><span style="color:green">乍乎乏</span>  <span style="color:red">乐乑乒乓乔</span><span style="color:green">乕乖乗  乘乙乚</span><span style="color:red">乛乜</span><span style="color:green">九乞也</span>  
+**乀乁乂乃乄久**~~乆乇~~  **么**~~义乊~~**之**~~乌~~**乍乎乏**  ~~乐乑乒乓乔~~**乕乖乗  乘乙乚**~~乛乜~~**九乞也**  
 
-<span style="color:red">习乡</span><span style="color:green">乢</span><span style="color:red">乣乤乥书乧  乨乩乪乫乬乭乮乯  买</span><span style="color:green">乱</span><span style="color:red">乲</span><span style="color:green">乳</span><span style="color:red">乴乵乶乷  乸乹乺乻乼乽</span><span style="color:green">乾乿</span>
+~~习乡~~**乢**~~乣乤乥书乧  乨乩乪乫乬乭乮乯  买~~**乱**~~乲~~**乳**~~乴乵乶乷  乸乹乺乻乼乽~~**乾乿**
 
-<span style="color:green">亀</span><span style="color:red">亁</span><span style="color:green">亂</span><span style="color:red">亃亄</span><span style="color:green">亅了</span><span style="color:red">亇</span>  <span style="color:green">予争亊事二亍于</span><span style="color:red">亏  亐</span><span style="color:green">云互</span><span style="color:red">亓</span><span style="color:green">五井亖</span><span style="color:red">亗</span>  <span style="color:green">亘亙</span><span style="color:red">亚</span><span style="color:green">些亜</span><span style="color:red">亝</span><span style="color:green">亞亟</span> 
+**亀**~~亁~~**亂**~~亃亄~~**亅了**~~亇~~  **予争亊事二亍于**~~亏  亐~~**云互**~~亓~~**五井亖**~~亗~~  **亘亙**~~亚~~**些亜**~~亝~~**亞亟** 
 
-<span style="color:green">亠亡亢</span><span style="color:red">亣</span><span style="color:green">交亥亦</span><span style="color:red">产</span>  <span style="color:green">亨</span><span style="color:red">亩亪</span><span style="color:green">享京亭亮</span><span style="color:red">亯</span>  <span style="color:green">亰</span><span style="color:red">亱亲</span><span style="color:green">亳</span><span style="color:red">亴亵</span><span style="color:green">亶</span><span style="color:red">亷  亸</span><span style="color:green">亹人亻</span><span style="color:red">亼亽亾亿</span>
+**亠亡亢**~~亣~~**交亥亦**~~产~~  **亨**~~亩亪~~**享京亭亮**~~亯~~  **亰**~~亱亲~~**亳**~~亴亵~~**亶**~~亷  亸~~**亹人亻**~~亼亽亾亿~~
 
-<span style="color:green">什仁仂</span><span style="color:red">仃</span><span style="color:green">仄</span><span style="color:red">仅</span><span style="color:green">仆仇</span>  <span style="color:red">仈仉</span><span style="color:green">今介</span><span style="color:red">仌</span><span style="color:green">仍从仏  仐</span><span style="color:red">仑仒仓</span><span style="color:green">仔仕他仗  付仙</span><span style="color:red">仚仛仜</span><span style="color:green">仝仞仟</span>  
+**什仁仂**~~仃~~**仄**~~仅~~**仆仇**  ~~仈仉~~**今介**~~仌~~**仍从仏  仐**~~仑仒仓~~**仔仕他仗  付仙**~~仚仛仜~~**仝仞仟**  
 
-<span style="color:green">仠仡</span><span style="color:red">仢</span><span style="color:green">代令以</span><span style="color:red">仦仧  仨仩仪仫们仭</span><span style="color:green">仮</span><span style="color:red">仯</span>  <span style="color:green">仰</span><span style="color:red">仱</span><span style="color:green">仲</span><span style="color:red">仳仴仵</span><span style="color:green">件价</span>  <span style="color:red">仸仹仺</span><span style="color:green">任仼份</span><span style="color:red">仾</span>仿
+**仠仡**~~仢~~**代令以**~~仦仧  仨仩仪仫们仭~~**仮**~~仯~~  **仰**~~仱~~**仲**~~仳仴仵~~**件价**  ~~仸仹仺~~**任仼份**~~仾~~仿
 
-伀<span style="color:green">企</span><span style="color:red">伂</span>伃<span style="color:red">伄伅伆伇  伈</span>伉伊<span style="color:green">伋</span><span style="color:red">伌</span>伍伎伏  伐休<span style="color:red">伒伓伔</span>伕<span style="color:red">伖众  优伙</span>会<span style="color:red">伛</span>伜伝<span style="color:red">伞伟</span> 
+伀**企**~~伂~~伃~~伄伅伆伇  伈~~伉伊**伋**~~伌~~伍伎伏  伐休~~伒伓伔~~伕~~伖众  优伙~~会~~伛~~伜伝~~伞伟~~ 
 
-<span style="color:red">传伡伢伣伤伥伦伧  伨伩伪伫伬伭伮</span><span style="color:green">伯  估</span><span style="color:red">伱伲伳</span>伴<span style="color:red">伵</span>伶<span style="color:red">伷</span>  <span style="color:green">伸伹伺</span>伻似伽<span style="color:red">伾伿</span>
+~~传伡伢伣伤伥伦伧  伨伩伪伫伬伭伮~~**伯  估**~~伱伲伳~~伴~~伵~~伶~~伷~~  **伸伹伺**伻似伽~~伾伿~~
 
-<span style="color:red">佀佁佂</span><span style="color:green">佃</span><span style="color:red">佄佅</span><span style="color:green">但</span>佇  <span style="color:red">佈</span>佉<span style="color:red">佊佋佌</span>位<span style="color:green">低</span>住  佐佑<span style="color:red">佒</span><span style="color:green">体佔何</span>佖佗  <span style="color:red">佘</span>余佚佛作佝佞<span style="color:red">佟</span>  
+~~佀佁佂~~**佃**~~佄佅~~**但**佇  ~~佈~~佉~~佊佋佌~~位**低**住  佐佑~~佒~~**体佔何**佖佗  ~~佘~~余佚佛作佝佞~~佟~~  
 
-<span style="color:green">你</span><span style="color:red">佡佢佣佤佥佦佧  佨</span>佩<span style="color:red">佪佫佬佭佮</span>佯  <span style="color:green">佰</span><span style="color:red">佱佲</span><span style="color:green">佳</span><span style="color:red">佴</span>併<span style="color:green">佶</span><span style="color:red">佷  佸佹</span><span style="color:green">佺</span>佻佼佽佾使
+**你**~~佡佢佣佤佥佦佧  佨~~佩~~佪佫佬佭佮~~佯  **佰**~~佱佲~~**佳**~~佴~~併**佶**~~佷  佸佹~~**佺**佻佼佽佾使
 
-<span style="color:red">侀侁侂</span>侃<span style="color:red">侄侅</span>來<span style="color:red">侇</span>  侈<span style="color:red">侉</span>侊<span style="color:green">例</span><span style="color:red">侌</span>侍<span style="color:red">侎</span>侏  <span style="color:red">侐</span><span style="color:green">侑</span>侒<span style="color:red">侓</span>侔<span style="color:red">侕</span>侖<span style="color:green">侗</span>  侘<span style="color:red">侙</span>侚供<span style="color:red">侜</span>依<span style="color:red">侞侟</span>  
+~~侀侁侂~~侃~~侄侅~~來~~侇~~  侈~~侉~~侊**例**~~侌~~侍~~侎~~侏  ~~侐~~**侑**侒~~侓~~侔~~侕~~侖**侗**  侘~~侙~~侚供~~侜~~依~~侞侟~~  
 
 侠価侢侣侤侥侦侧  侨侩侪侫侬侭侮侯  侰侱侲侳侴侵侶侷  侸侹侺侻侼侽侾便
 
