@@ -16,17 +16,17 @@
 
 <span style="color:#ff0000">什仁仂</span><span style="color:#00000000">仃</span><span style="color:#ff0000">仄</span><span style="color:#00000000">仅</span><span style="color:#ff0000">仆仇</span>  <span style="color:#00000000">仈仉</span><span style="color:#ff0000">今介</span><span style="color:#00000000">仌</span><span style="color:#ff0000">仍从仏  仐</span><span style="color:#00000000">仑仒仓</span><span style="color:#ff0000">仔仕他仗  付仙</span><span style="color:#00000000">仚仛仜</span><span style="color:#ff0000">仝仞仟</span>  
 
-<span style="color:#ff0000">仠仡</span><span style="color:#00000000">仢</span><span style="color:#ff0000">代令以</span><span style="color:#00000000">仦仧  仨仩仪仫们仭</span><span style="color:#ff0000">仮</span><span style="color:#00000000">仯</span>  <span style="color:#ff0000">仰</span><span style="color:#00000000">仱</span><span style="color:#ff0000">仲</span><span style="color:#00000000">仳仴仵</span><span style="color:#ff0000">件价</span>  <span style="color:#00000000">仸仹仺</span><span style="color:#ff0000">任仼份</span><span style="color:#00000000">仾</span><span style="color:#ff0000">仿</span>
+<span style="color:#ff0000">仠仡</span><span style="color:#00000000">仢</span><span style="color:#ff0000">代令以</span><span style="color:#00000000">仦仧</span>  <span style="color:#ff0000">仨</span><span style="color:#00000000">仩仪仫们仭</span><span style="color:#ff0000">仮</span><span style="color:#00000000">仯</span>  <span style="color:#ff0000">仰</span><span style="color:#00000000">仱</span><span style="color:#ff0000">仲</span><span style="color:#00000000">仳仴仵</span><span style="color:#ff0000">件价</span>  <span style="color:#00000000">仸仹仺</span><span style="color:#ff0000">任仼份</span><span style="color:#00000000">仾</span><span style="color:#ff0000">仿</span>
 
-伀<span style="color:#ff0000">企</span><span style="color:#00000000">伂</span>伃<span style="color:#00000000">伄伅伆伇  伈</span>伉<span style="color:#ff0000">伊伋</span><span style="color:#00000000">伌</span><span style="color:#ff0000">伍</span>伎伏  伐休<span style="color:#00000000">伒伓伔</span>伕<span style="color:#00000000">伖众  优伙</span>会<span style="color:#00000000">伛</span>伜伝<span style="color:#00000000">伞伟</span> 
+<span style="color:#ff0000">伀企</span><span style="color:#00000000">伂</span>伃<span style="color:#00000000">伄伅伆伇  伈</span><span style="color:#ff0000">伉伊伋</span><span style="color:#00000000">伌</span><span style="color:#ff0000">伍伎伏  伐</span>休<span style="color:#00000000">伒伓伔</span><span style="color:#ff0000">伕</span><span style="color:#00000000">伖众  优伙</span>会<span style="color:#00000000">伛</span>伜<span style="color:#ff0000">伝</span><span style="color:#00000000">伞伟</span>
 
 <span style="color:#00000000">传伡伢伣伤伥伦伧  伨伩伪伫伬伭伮</span><span style="color:#ff0000">伯  估</span><span style="color:#00000000">伱伲伳</span>伴<span style="color:#00000000">伵</span>伶<span style="color:#00000000">伷</span>  <span style="color:#ff0000">伸伹伺</span>伻似<span style="color:#ff0000">伽</span><span style="color:#00000000">伾伿</span>
 
-<span style="color:#00000000">佀佁佂</span><span style="color:#ff0000">佃</span><span style="color:#00000000">佄佅</span><span style="color:#ff0000">但</span>佇  <span style="color:#00000000">佈</span>佉<span style="color:#00000000">佊佋佌</span>位<span style="color:#ff0000">低</span>住  <span style="color:#ff0000">佐佑</span><span style="color:#00000000">佒</span><span style="color:#ff0000">体佔何</span>佖佗  <span style="color:#00000000">佘</span>余佚佛作<span style="color:#ff0000">佝</span>佞<span style="color:#00000000">佟</span>  
+<span style="color:#00000000">佀佁佂</span><span style="color:#ff0000">佃</span><span style="color:#00000000">佄佅</span><span style="color:#ff0000">但</span>佇  <span style="color:#00000000">佈</span>佉<span style="color:#00000000">佊佋佌</span>位<span style="color:#ff0000">低</span>住  <span style="color:#ff0000">佐佑</span><span style="color:#00000000">佒</span><span style="color:#ff0000">体佔何</span>佖佗  <span style="color:#00000000">佘</span>余佚<span style="color:#ff0000">佛</span>作<span style="color:#ff0000">佝</span>佞<span style="color:#00000000">佟</span>  
 
 <span style="color:#ff0000">你</span><span style="color:#00000000">佡佢佣佤佥佦佧  佨</span>佩<span style="color:#00000000">佪佫佬佭佮</span>佯  <span style="color:#ff0000">佰</span><span style="color:#00000000">佱佲</span><span style="color:#ff0000">佳</span><span style="color:#00000000">佴</span>併<span style="color:#ff0000">佶</span><span style="color:#00000000">佷  佸佹</span><span style="color:#ff0000">佺</span>佻佼佽佾使
 
-<span style="color:#00000000">侀侁侂</span>侃<span style="color:#00000000">侄侅</span>來<span style="color:#00000000">侇</span>  侈<span style="color:#00000000">侉</span>侊<span style="color:#ff0000">例</span><span style="color:#00000000">侌</span>侍<span style="color:#00000000">侎</span>侏  <span style="color:#00000000">侐</span><span style="color:#ff0000">侑</span>侒<span style="color:#00000000">侓</span>侔<span style="color:#00000000">侕</span>侖<span style="color:#ff0000">侗</span>  侘<span style="color:#00000000">侙</span>侚供<span style="color:#00000000">侜</span>依<span style="color:#00000000">侞侟</span>  
+<span style="color:#00000000">侀侁侂</span>侃<span style="color:#00000000">侄侅</span>來<span style="color:#00000000">侇</span>  <span style="color:#ff0000">侈</span><span style="color:#00000000">侉</span>侊<span style="color:#ff0000">例</span><span style="color:#00000000">侌</span>侍<span style="color:#00000000">侎</span>侏  <span style="color:#00000000">侐</span><span style="color:#ff0000">侑</span>侒<span style="color:#00000000">侓</span>侔<span style="color:#00000000">侕</span>侖<span style="color:#ff0000">侗</span>  侘<span style="color:#00000000">侙</span>侚供<span style="color:#00000000">侜</span>依<span style="color:#00000000">侞侟</span>  
 
 侠<span style="color:#ff0000">価</span><span style="color:#00000000">侢</span><span style="color:#ff0000">侣</span><span style="color:#00000000">侤侥侦侧  侨侩侪</span>侫<span style="color:#00000000">侬</span>侭侮侯  <span style="color:#00000000">侰侱侲侳侴侵</span><span style="color:#ff0000">侶</span><span style="color:#00000000">侷  侸侹侺侻侼侽</span>侾便
 
@@ -36,7 +36,7 @@
 
 倀倁<span style="color:#00000000">倂倃倄</span>倅倆<span style="color:#00000000">倇  倈</span>倉<span style="color:#00000000">倊</span><span style="color:#ff0000">個</span><span style="color:#00000000">倌</span>倍<span style="color:#00000000">倎</span>倏  倐<span style="color:#ff0000">們</span>倒<span style="color:#00000000">倓</span>倔<span style="color:#00000000">倕</span>倖<span style="color:#00000000">倗  倘</span>候倚倛<span style="color:#00000000">倜倝</span>倞<span style="color:#ff0000">借</span>  
 
-<span style="color:#00000000">倠</span><span style="color:#ff0000">倡</span>倢倣値倥倦倧  倨倩倪倫倬倭倮<span style="color:#00000000">倯  倰倱倲倳倴倵</span>倶<span style="color:#00000000">倷  倸</span>倹<span style="color:#00000000">债</span>倻<span style="color:#00000000">值倽倾倿</span>
+<span style="color:#00000000">倠</span><span style="color:#ff0000">倡</span>倢倣値倥倦倧  倨倩倪倫<span style="color:#ff0000">倬</span>倭倮<span style="color:#00000000">倯  倰倱倲倳倴倵</span><span style="color:#ff0000">倶</span><span style="color:#00000000">倷  倸</span>倹<span style="color:#00000000">债</span>倻<span style="color:#00000000">值倽倾倿</span>
 
 偀<span style="color:#00000000">偁</span>偂偃<span style="color:#00000000">偄偅</span>偆假  偈偉<span style="color:#00000000">偊偋偌偍偎</span>偏  偐<span style="color:#00000000">偑偒偓偔</span>偕偖偗  <span style="color:#00000000">偘偙</span>做<span style="color:#00000000">偛</span>停<span style="color:#00000000">偝偞偟</span>  
 
@@ -54,13 +54,13 @@
 
 <span style="color:#00000000">儠</span><span style="color:#ff0000">儡</span><span style="color:#00000000">儢儣儤儥儦儧  儨儩</span>優<span style="color:#00000000">儫儬儭儮儯  儰儱</span>儲<span style="color:#00000000">儳儴儵儶</span>儷  <span style="color:#00000000">儸儹</span>儺儻儼<span style="color:#00000000">儽儾</span><span style="color:#ff0000">儿</span>
 
-兀允兂元兄充兆兇  先光兊克兌免兎兏  児兑兒兓兔兕兖兗  兘兙党兛兜兝兞兟  
+<span style="color:#ff0000">兀</span>允<span style="color:#00000000">兂</span>元兄充兆兇  先光兊克兌免兎<span style="color:#00000000">兏</span>  児<span style="color:#00000000">兑</span>兒<span style="color:#00000000">兓</span>兔<span style="color:#00000000">兕兖兗  兘兙</span>党<span style="color:#00000000">兛</span>兜<span style="color:#00000000">兝兞</span>兟  
 
-兠兡兢兣兤入兦內  全兩兪八公六兮兯  兰共兲关兴兵其具  典兹兺养兼兽兾兿
+<span style="color:#00000000">兠兡</span>兢<span style="color:#00000000">兣</span>兤<span style="color:#ff0000">入</span><span style="color:#00000000">兦</span>內  全兩兪<span style="color:#ff0000">八</span>公六兮<span style="color:#00000000">兯  兰</span>共<span style="color:#00000000">兲关兴</span>兵其具  典兹<span style="color:#00000000">兺养</span>兼<span style="color:#00000000">兽兾兿</span>
 
-冀冁冂冃冄内円冇  冈冉冊冋册再冎冏  冐冑冒冓冔冕冖冗  冘写冚军农冝冞冟  
+冀<span style="color:#00000000">冁</span><span style="color:#ff0000">冂</span><span style="color:#00000000">冃冄</span>内<span style="color:#ff0000">円</span><span style="color:#00000000">冇  冈</span>冉冊<span style="color:#00000000">冋</span>册再<span style="color:#00000000">冎</span>冏  冐冑冒冓<span style="color:#00000000">冔</span>冕<span style="color:#ff0000">冖</span>冗  <span style="color:#00000000">冘</span>写<span style="color:#00000000">冚军农</span>冝<span style="color:#00000000">冞冟</span>  
 
-冠冡冢冣冤冥冦冧  冨冩冪冫冬冭冮冯  冰冱冲决冴况冶冷  冸冹冺冻冼冽冾冿
+冠冡冢<span style="color:#00000000">冣</span>冤冥冦<span style="color:#00000000">冧</span>  冨冩冪<span style="color:#ff0000">冫</span>冬<span style="color:#00000000">冭冮冯</span>  冰冱冲决冴况冶冷  <span style="color:#00000000">冸冹冺冻</span>冼冽冾<span style="color:#00000000">冿</span>
 
 净凁凂凃凄凅准凇  凈凉凊凋凌凍凎减  凐凑凒凓凔凕凖凗  凘凙凚凛凜凝凞凟  
 
