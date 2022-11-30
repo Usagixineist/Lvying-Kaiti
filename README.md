@@ -22,7 +22,7 @@ Klee One虽然为楷书字形，但是其字体标准为日标，部分字形与
 
 ### 字体参考
 
-本字体基于日本著名字体厂商 FONTWORKS 在 GitHub 上释出的字体[Klee One](https://github.com/fontworks-fonts/Klee)进行修改调整，选用Semibold字重并加粗为蓝本，同时参考[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)补充字符以及所修改的国标字形，进行二次创作的楷书字体。
+本字体基于日本著名字体厂商 FONTWORKS 在 GitHub 上释出的字体[Klee One](https://github.com/fontworks-fonts/Klee)进行修改调整，选用Semibold字重并加粗9单位为蓝本，同时参考[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)补充字符以及所修改的国标字形，进行二次创作的楷书字体。
 
 ### 字体风格
 
